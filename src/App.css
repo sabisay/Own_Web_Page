@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+#main_title{
+  text-align: center;
+  color: palevioletred;
+}
+
+#main_title_container{
+  padding: 20px;
+  border: 2px black;
+}
